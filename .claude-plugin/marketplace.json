@@ -1,0 +1,16 @@
+{
+  "name": "bhannan-skills",
+  "owner": {
+    "name": "bhannan"
+  },
+  "metadata": {
+    "description": "Personal Claude Code skills and plugins"
+  },
+  "plugins": [
+    {
+      "name": "expert-review",
+      "source": "./expert-review",
+      "description": "Multi-agent code review deploying 12 specialized agents across 6 domains with consensus-based confidence scoring"
+    }
+  ]
+}
